@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/txt_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="输入要翻译的文本1"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/txt_receive"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="翻译" />
+
+    <Button
+        android:id="@+id/btn_scan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="扫码" />
+
+    <Button
+        android:id="@+id/btn_httpsend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="测试HTTP" />
+
+</LinearLayout>
