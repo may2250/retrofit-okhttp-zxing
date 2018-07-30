@@ -1,0 +1,5 @@
+F:\project\EricRunRestService\EricRunRestService\bin\Debug\EricRunRestService.dll
+F:\project\EricRunRestService\EricRunRestService\bin\Debug\EricRunRestService.pdb
+F:\project\EricRunRestService\EricRunRestService\obj\Debug\EricRunRestService.dll
+F:\project\EricRunRestService\EricRunRestService\obj\Debug\EricRunRestService.pdb
+F:\project\EricRunRestService\EricRunRestService\bin\Debug\Newtonsoft.Json.dll

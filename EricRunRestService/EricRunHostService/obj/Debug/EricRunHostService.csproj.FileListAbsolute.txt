@@ -1,0 +1,10 @@
+F:\project\EricRunRestService\EricRunHostService\bin\Debug\EricRunHostService.exe
+F:\project\EricRunRestService\EricRunHostService\bin\Debug\EricRunHostService.pdb
+F:\project\EricRunRestService\EricRunHostService\bin\Debug\EricRunRestService.dll
+F:\project\EricRunRestService\EricRunHostService\bin\Debug\EricRunRestService.pdb
+F:\project\EricRunRestService\EricRunHostService\obj\Debug\EricRunHostService.csprojResolveAssemblyReference.cache
+F:\project\EricRunRestService\EricRunHostService\obj\Debug\EricRunHostService.exe
+F:\project\EricRunRestService\EricRunHostService\obj\Debug\EricRunHostService.pdb
+F:\project\EricRunRestService\EricRunHostService\bin\Debug\Newtonsoft.Json.dll
+F:\project\android\retrofit-okhttp-zxing\EricRunRestService\EricRunHostService\obj\Debug\EricRunHostService.exe
+F:\project\android\retrofit-okhttp-zxing\EricRunRestService\EricRunHostService\obj\Debug\EricRunHostService.pdb
